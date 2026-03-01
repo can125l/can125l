@@ -1,16 +1,47 @@
-## Hi there 👋
+Mehmet Can Çetin
 
-<!--
-**can125l/can125l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  whoami
+
+Systems Administrator focused on virtualization and hosting
+infrastructures. Designing scalable environments, optimizing performance
+and maintaining reliability.
+
+Specialized in: - VMware Infrastructure - Linux & Windows Servers -
+Hosting Platforms - Automation & Deployment
+
+------------------------------------------------------------------------
+
+🖥️ Infrastructure Stack
+
+VMware vSphere Linux Servers Windows Server Plesk Hosting KVM
+Virtualization Hyper‑V
+
+------------------------------------------------------------------------
+
+🚀 Core Expertise
+
+-   Virtualization (VMware ESXi / vCenter)
+-   Server Deployment & Provisioning
+-   Linux Infrastructure Management
+-   Hosting Environment Operations
+-   Backup & Disaster Recovery
+-   System Hardening
+
+------------------------------------------------------------------------
+
+⚙️ Currently Working On
+
+-   Infrastructure Automation
+-   Virtualization Optimization
+-   Hosting Platform Improvements
+-   High Availability Systems
+
+------------------------------------------------------------------------
+
+GitHub → https://github.com/can125l
+
+Building Infrastructure • Optimizing Systems • Scaling Performance
