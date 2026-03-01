@@ -1,47 +1,75 @@
-Mehmet Can Çetin
+<h1 align="center">Mehmet Can Çetin</h1>
 
-------------------------------------------------------------------------
+<p align="center">
+Sistem Yöneticisi • Altyapı Mühendisi • Sanallaştırma Uzmanı
+</p>
 
-⚡ About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Sistem+Yöneticisi;Altyapı+Mühendisi;Sanallaştırma+Uzmanı;VMware+%7C+Linux+%7C+Hosting+Altyapıları" />
+</p>
 
-  whoami
+---
 
-Systems Administrator focused on virtualization and hosting
-infrastructures. Designing scalable environments, optimizing performance
-and maintaining reliability.
+## ⚡ Hakkımda
 
-Specialized in: - VMware Infrastructure - Linux & Windows Servers -
-Hosting Platforms - Automation & Deployment
+Sanallaştırma ve hosting altyapıları üzerine uzmanlaşmış bir sistem yöneticisiyim.
 
-------------------------------------------------------------------------
+Ölçeklenebilir sistemler tasarlamak, performans optimizasyonu yapmak ve yüksek erişilebilirlik sağlamak önceliğimdir.
 
-🖥️ Infrastructure Stack
+**Uzmanlık Alanlarım:**
 
-VMware vSphere Linux Servers Windows Server Plesk Hosting KVM
-Virtualization Hyper‑V
+- VMware Altyapıları  
+- Linux & Windows Sunucular  
+- Hosting Platformları  
+- Sunucu Kurulum ve Provisioning  
+- Sistem Güvenliği ve Hardening  
 
-------------------------------------------------------------------------
+---
 
-🚀 Core Expertise
+## 🖥️ Kullandığım Teknolojiler
 
--   Virtualization (VMware ESXi / vCenter)
--   Server Deployment & Provisioning
--   Linux Infrastructure Management
--   Hosting Environment Operations
--   Backup & Disaster Recovery
--   System Hardening
+<p align="center">
 
-------------------------------------------------------------------------
+<img src="https://img.shields.io/badge/VMware-vSphere-orange?style=for-the-badge&logo=vmware" />
+<img src="https://img.shields.io/badge/Linux-Sunucu-black?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Windows-Sunucu-blue?style=for-the-badge&logo=windows" />
+<img src="https://img.shields.io/badge/Plesk-Hosting-darkblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KVM-Sanallaştırma-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hyper--V-Sanallaştırma-purple?style=for-the-badge" />
 
-⚙️ Currently Working On
+</p>
 
--   Infrastructure Automation
--   Virtualization Optimization
--   Hosting Platform Improvements
--   High Availability Systems
+---
 
-------------------------------------------------------------------------
+## 🚀 Uzmanlık Alanları
 
-GitHub → https://github.com/can125l
+- VMware ESXi / vCenter Yönetimi  
+- Sunucu Kurulumu ve Yönetimi  
+- Linux Altyapı Yönetimi  
+- Hosting Operasyonları  
+- Yedekleme ve Felaket Kurtarma Planlaması  
+- Sistem Güvenliği ve Erişim Yönetimi  
 
-Building Infrastructure • Optimizing Systems • Scaling Performance
+---
+
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=can125l&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=can125l&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚙️ Şu Anda Odaklandıklarım
+
+- Altyapı Otomasyonu  
+- Sanallaştırma Optimizasyonu  
+- Hosting Platform Geliştirmeleri  
+- Yüksek Erişilebilirlik Mimarileri  
+
+---
+
+<p align="center">
+Altyapı Kuruyorum • Sistemleri Optimize Ediyorum • Performansı Ölçekliyorum
+</p>
