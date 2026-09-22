@@ -1,4 +1,4 @@
-<h1 align="center">Mehmet Can Çetin</h1>
+<h1 align="center">Can</h1>
 
 <p align="center">
 Sistem Yöneticisi • Altyapı Mühendisi • Sanallaştırma Uzmanı
